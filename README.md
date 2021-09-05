@@ -7,7 +7,7 @@ This repository consists of all required files of Inventory Management System, c
 3) I am using two JSON files for this project, Record.json - contains product details, Sale.json - contains bill/transaction details.
 4) I also have the option for generating bills in a text file.
 
-## I have added 7 Features of Product
+## I have added 7 Features for Product
 1) ID
 2) Name
 3) Price
@@ -16,7 +16,7 @@ This repository consists of all required files of Inventory Management System, c
 6) Expiry-Date
 7) Type
 
-## My program can do this functions
+## The program can do this functions.
 1) Program asks for the input from the user and takes the program control to respective section.
 2) Program displays the available products to the Customer.
 3) Customer can purchase one or multiple products based on the Product Id.
