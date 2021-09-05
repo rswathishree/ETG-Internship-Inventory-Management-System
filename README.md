@@ -30,7 +30,7 @@ This repository consists of all required files of Inventory Management System, c
 11) Salesteam can visualize the transactions happened (i.e) manipulated from sale.json file.
 
 ## About Me
-I am Swathi R, a budding Enginner.I am currently Persuiing by Bachelor of Enginnering in Easwari Engineering college. I am a fast learner and dedicated Person. I am very determined and actively looking up for oppurtunities to learn new things. Now, I am actively exploring the fields of Artificial Intelligence and Machine Learning.
+I am Swathi R,highly motivated, goal-driven,creative budding Enginner. I am currently Pursuing my Bachelor of Enginnering in Easwari Engineering college. I am a fast learner and a dedicated Person. I am very determined and actively looking up for opportunities to learn new things. Now, I am actively exploring the fields of Artificial Intelligence and Machine Learning.
 
 ## Contact Links
 LinkedIn: https://www.linkedin.com/in/swathi-r-6760a41a9
